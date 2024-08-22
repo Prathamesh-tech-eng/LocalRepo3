@@ -1,3 +1,4 @@
 # LocalRepo3
 This is a local Reopository
-Author - Prathamesh Chikkali
+<br>
+<h2>Author - Prathamesh Chikkali</h2>
